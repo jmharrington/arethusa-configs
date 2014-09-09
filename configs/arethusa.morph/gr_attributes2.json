@@ -40,12 +40,12 @@
             "color" : "blue"
           }
         },
-        "nmr" : {
+        "nrl" : {
           "long" : "numeral",
-          "short" : "nmr",
+          "short" : "nrl",
           "postag" : "m",
           "style" : {
-            "color" : "black"
+            "color" : "lightgreen"
           }
         },
         "pron" : {
@@ -149,7 +149,7 @@
       "rules" : [
         {
           "if" : {
-            "pos" : [ "noun", "art", "part", "adj", "pron", "nmr" ]
+            "pos" : [ "noun", "art", "part", "adj", "pron", "nrl" ]
           }
         },
         {
@@ -312,7 +312,7 @@
       "rules" : [
         {
           "if" : {
-            "pos" : [ "art", "noun", "adj", "pron", "nmr" ]
+            "pos" : [ "art", "noun", "adj", "pron", "nrl" ]
           }
         },
         {
@@ -346,7 +346,7 @@
       "rules" : [
         {
           "if" : {
-            "pos" : [ "art", "noun", "adj", "pron", "nmr" ]
+            "pos" : [ "art", "noun", "adj", "pron", "nrl" ]
           }
         },
         {
