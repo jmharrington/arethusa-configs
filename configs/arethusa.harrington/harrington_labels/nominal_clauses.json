@@ -1,8 +1,8 @@
 {
   "nested" : {
     "SUBST" : {
-      "short" : "NOM-INDCMND",
-      "long" : "indirect command"
+      "short" : "NOM-SUBST",
+      "long" : "substantive noun clause"
     },
     "FEARCL" : {
       "short" : "NOM-FEARCL",
